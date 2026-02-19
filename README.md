@@ -1,44 +1,24 @@
 # Evaluating, Analyzing and Framing Data
 For students of The Ida B. Wells Society Investigative Reporting Fellowship 2026
 
+Prepared by Maggie Lee
 
-Want to these our slides? Go ahead! They fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
+Want to these our slides? Go ahead! They fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/). Some slides are taken right from [The Data Institue](https://github.com/cjddatainstitute). 
 
-# Curriculum
-
-## Table of Contents
-- [Install Party](#welcome-reception--install-party)
-
-- [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
+# H1
 
 
-**ACCOUNTS**
-<ul>
-  <li><a href="https://github.com/join?source=header-home">Github.com</a><br>(Make sure to confirm your e-mail address)</li>
-  <li><a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a></li>
-  <li><a href="https://app.datawrapper.de/signin">Datawrapper</a></li>
-</ul>
-
-### Intro to Data Journalism
+### H4
 <a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2022.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/finding-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data%202023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/string-functions.jpg"></a>
+PDF TK
 
-**In-Class Demos**
-- How to create your first HTML file
-- Shortcut to the basic HTML template
-- How to use:
-  - `<h1>`
-  - `<h2>`
-  - `<h3>`
-  - `<p>`
-- Let's look up together:
-  - `<img>`
-  - `<a>`
-- Can you figure out:
-  - How do you make a bulleted list?
+**References, resources, further reading**
+<ul>
+  <li><a href="https://github.com/Quartz/bad-data-guide">The Quartz guide to Bad Data</a></li>
+  <li><a href="https://newsnerdery.org/">News Nerdery public Slack</a></li>
+  <li><a href="https://github.com/cjddatainstitute">Data Institute archives 2019-2025</a></li>
+  <li>Anything by <a href="https://www.albertocairo.com/">Alberto Cairo</a>, but especially How Charts Lie <a href="https://wwnorton.com/books/9781324001560">as a book</a> or on <a href="https://www.youtube.com/watch?v=oX74Nge8Wkw">a talk on YouTube</a> </li>
+
+</ul>
 
 
