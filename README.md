@@ -1,9 +1,8 @@
-# Data Institute 2024
-For students of [The Data Institute](https://cjddatainstitute.org/), a collaboration between the Center for Journalism & Democracy and the Ida B. Wells Society for Investigative Reporting.
+# Evaluating, Analyzing and Framing Data
+For students of The Ida B. Wells Society Investigative Reporting Fellowship 2026
 
-We'll use this page to add all the materials used to teach the [2024 Data Institute](https://cjddatainstitute.org/2024/): slides, exercises, links, and homework. This is not an online course and won't have all the context or instruction to be a standalone class.
 
-Want to use our slides? Our teaching materials fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
+Want to these our slides? Go ahead! They fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
 
 # Curriculum
 
