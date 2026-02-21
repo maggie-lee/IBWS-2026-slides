@@ -14,6 +14,9 @@ PDF TK
 
 **References, resources, further reading**
 <ul>
+  <li><a href="https://www.dcinbox.com/">DC Inbox</a></li>
+  <li><a href="https://le.fbi.gov/informational-tools/ucr/ucr-resources-for-law-enforcement"</a>The FBI's footnotes on crime stats</a> TL;DR: Consult a source that knows what they're talking about on stats, like a prof or <a href="https://www.themarshallproject.org/">The Marshall Project</a></li>
+  <li><a href="https://roughdraftatlanta.com/2019/08/14/sandy-springs-appears-on-another-safest-cities-list-an-expert-calls-useless/"</a> Sandy Springs appears on another ‘safest cities’ list an expert calls useless</a> by John Ruch, Aug. 14, 2019
   <li><a href="https://github.com/Quartz/bad-data-guide">The Quartz guide to Bad Data</a></li>
   <li><a href="https://newsnerdery.org/">News Nerdery public Slack</a></li>
   <li><a href="https://github.com/cjddatainstitute">Data Institute archives 2019-2025</a></li>
