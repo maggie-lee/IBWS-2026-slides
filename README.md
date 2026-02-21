@@ -20,7 +20,8 @@ PDF TK
   
   <li><a href="https://roughdraftatlanta.com/2019/08/14/sandy-springs-appears-on-another-safest-cities-list-an-expert-calls-useless/"</a> Sandy Springs appears on another ‘safest cities’ list an expert calls useless</a> by John Ruch, Aug. 14, 2019
   <li><a href="https://github.com/Quartz/bad-data-guide">The Quartz guide to Bad Data</a></li>
-  <li><a href="https://drive.google.com/file/d/1D96Db19r8a12bG6pERRwW-OMne7O_S5u/view">Dillon Bergin's Dumpster-fire-proof your data</a> 
+  <li><a href="https://drive.google.com/file/d/1D96Db19r8a12bG6pERRwW-OMne7O_S5u/view">Dillon Bergin's Dumpster-fire-proof your data</a></li>
+<li><a href="https://thecurrentga.org/2025/06/19/glynn-county-immigration-detentions-ice/">Glynn County Sheriff’s ICE data offers inconsistencies</a> by Jabari Gibbs, June 19, 2025</li>
   <li><a href="https://newsnerdery.org/">News Nerdery public Slack</a></li>
   <li><a href="https://github.com/cjddatainstitute">Data Institute archives 2019-2025</a></li>
   <li>Anything by <a href="https://www.albertocairo.com/">Alberto Cairo</a>, but especially How Charts Lie <a href="https://wwnorton.com/books/9781324001560">as a book</a> or on <a href="https://www.youtube.com/watch?v=oX74Nge8Wkw">a talk on YouTube</a> </li>
