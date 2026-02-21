@@ -9,8 +9,8 @@ Re-use these slides! They fall under the [Creative Commons license](https://crea
 
 
 ### H4
-<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
-PDF TK
+<!-- <a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a> -->
+SLIDES TK
 
 **References, resources, further reading**
 <ul>
