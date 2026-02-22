@@ -22,6 +22,8 @@ SLIDES TK
   <li><a href="https://github.com/Quartz/bad-data-guide">The Quartz guide to Bad Data</a></li>
   <li><a href="https://drive.google.com/file/d/1D96Db19r8a12bG6pERRwW-OMne7O_S5u/view">Dillon Bergin's Dumpster-fire-proof your data</a></li>
 <li><a href="https://thecurrentga.org/2025/06/19/glynn-county-immigration-detentions-ice/">Glynn County Sheriff’s ICE data offers inconsistencies</a> by Jabari Gibbs, June 19, 2025</li>
+<li><a href="https://www.thecity.nyc/2023/07/13/elliot-joseph-ambalo-etai-vardi-heirs-speculators-eviction/">The Speculator Bros Ripping Off Heirs and Evicting Tenants Across NYC</a>, The City, July 13, 2023</li>
+<li><a href="https://thebadgerproject.org/2023/08/07/the-brewers-want-hundreds-of-millions-in-public-funding-to-renovate-their-stadium-through-the-first-six-months-of-2023-the-teams-spent-more-than-half-a-million-dollars-in-lobbying-to-make-t/">The Brewers want millions in public funds for stadium renovations. In the first half of 2023, the team spent nearly $600k lobbying to make their case</a>, The Badger Project, August 7, 2023</li>
   <li><a href="https://newsnerdery.org/">News Nerdery public Slack</a></li>
   <li><a href="https://github.com/cjddatainstitute">Data Institute archives 2019-2025</a></li>
   <li>Anything by <a href="https://www.albertocairo.com/">Alberto Cairo</a>, but especially How Charts Lie <a href="https://wwnorton.com/books/9781324001560">as a book</a> or on <a href="https://www.youtube.com/watch?v=oX74Nge8Wkw">a talk on YouTube</a> </li>
