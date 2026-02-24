@@ -5,12 +5,8 @@ Prepared by Maggie Lee
 
 Re-use these slides! They fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/). Some slides are taken right from [The Data Institue](https://github.com/cjddatainstitute). 
 
-# H1
-
-
-### H4
-<!-- <a href="https://github.com/maggie-lee/IBWS-2026-slides/blob/fb6f4163ecefd3b3a198dcb1774a8d9fe744770d/2026-02-24%20IBWS%20presentation%20data%20eval.pdf)"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a> -->
-SLIDES TK
+### Slides
+<a href="https://github.com/maggie-lee/IBWS-2026-slides/blob/fb6f4163ecefd3b3a198dcb1774a8d9fe744770d/2026-02-24%20IBWS%20presentation%20data%20eval.pdf"><img width="300" src="https://github.com/maggie-lee/IBWS-2026-slides/blob/0d5a39c9d4203e93443adee5db62191c2e662ee5/2026-02-24%20IBWS%20presentation%20data%20eval%20thumbnail.jpg"></a>
 
 **Links**
 <ul>
