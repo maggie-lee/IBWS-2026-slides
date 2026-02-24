@@ -1,7 +1,7 @@
 # Evaluating, Analyzing and Framing Data
 For students of The Ida B. Wells Society Investigative Reporting Fellowship 2026
 
-Prepared by Maggie Lee
+Prepared by <a href="https://www.maggielee.net">Maggie Lee</a>
 
 Re-use these slides! They fall under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/). Some slides are taken right from [The Data Institue](https://github.com/cjddatainstitute). 
 
